@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ovienmhada"
+  given-names: "Ufuoma"
+  orcid: "https://orcid.org/0000-0001-6779-1749"
+title: "prison_environmental_justice"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-05-08
+url: "https://github.com/callmeufu/prison_environmental_justice"
