@@ -4,6 +4,12 @@ authors:
 - family-names: "Ovienmhada"
   given-names: "Ufuoma"
   orcid: "https://orcid.org/0000-0001-6779-1749"
+- family-names: "Hines-Shanks"
+  given-names: "Mia"
+- family-names: "Krisch"
+  given-names: "Michael"
+- family-names: "Diongue"
+  given-names: "Ahmed"
 title: "prison_environmental_justice"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
