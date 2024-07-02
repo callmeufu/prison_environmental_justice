@@ -1,143 +1,154 @@
 facility_id,prison_name,state,ac_status,ac_status_details,address,building_completion_year,notes
-10002400,Bridgeport Correctional Center,CT,Yes,Partial,"1106 North Avenue Bridgeport, CT 06604",1958,"1958 listed as the open date, assume it is the building completion date"
 10002399,Brooklyn Correctional Institution,CT,Yes,Full,"59 Hartford Road Brooklyn, CT 06234",1820,"Additions added in 1842, 1863, 1990"
 10000937,Cheshire Correctional Institution,CT,Yes,Full,"900 Highland Avenue Cheshire, CT 06410",1913,Addition in 1956
+10000933,York Correctional Institution,CT,Yes,Full,"201 West Main Street Niantic, CT 06357",1918,"Additions added in 1930, 1988"
 10000931,Corrigan Correctional Center,CT,Yes,Full,"986 Norwich-New London Turnpike Uncasville, CT 06382",1957,"Merged with buildings opened in 1994, 1991"
+10002400,Bridgeport Correctional Center,CT,Yes,Partial,"1106 North Avenue Bridgeport, CT 06604",1958,"1958 listed as the open date, assume it is the building completion date"
+10000928,Osborn Correctional Institution,CT,No,None,"335 Bilton Road, POB 100 Somers, CT 06071",1963,
+10005380,New Haven Correctional Center,CT,Yes,Full,"245 Whalley Avenue New Haven, CT 06511",1976,"Additions added in 1991, 1993, 1997"
+10000926,Hartford Correctional Center,CT,Yes,Partial,"177 Weston Street Hartford, CT 06120",1977,"Additions added in 1990, 1991"
+10001605,Robinson Correctional Institution,CT,Yes,Full,"285 Shaker Road, POB 1400 Enfield, CT 06082",1985,
 10006149,Cybulski Community Reintegration Center,CT,Yes,Full,"264 Bilton Road Somers, CT 06071",1990,Merged with a building opened in 1993
 10000934,Garner Correctional Institution,CT,Yes,Full,"50 Nunnawauk Road, Newtown, CT 06470",1992,
-10000926,Hartford Correctional Center,CT,Yes,Partial,"177 Weston Street Hartford, CT 06120",1977,"Additions added in 1990, 1991"
 10000927,MacDougall-Walker Correctional Institution,CT,Yes,Full,"1153 East Street, South Suffield, CT 06080",1992,"Additions added in 1996, 2003"
-10005380,New Haven Correctional Center,CT,Yes,Full,"245 Whalley Avenue New Haven, CT 06511",1976,"Additions added in 1991, 1993, 1997"
-10000928,Osborn Correctional Institution,CT,No,None,"335 Bilton Road, POB 100 Somers, CT 06071",1963,
-10001605,Robinson Correctional Institution,CT,Yes,Full,"285 Shaker Road, POB 1400 Enfield, CT 06082",1985,
-10000933,York Correctional Institution,CT,Yes,Full,"201 West Main Street Niantic, CT 06357",1918,"Additions added in 1930, 1988"
-10006153,Augusta State Med. Prison,GA,Yes,Partial,"3001 Gordon Hwy, Grovetown, GA 30813",1982,
-10000325,Autry State Prison,GA,Yes,Partial,"3178 Mount Zion Church Road, Pelham, GA 31779",1992,
-10002129,Baldwin State Prison,GA,Yes,Full,"140 Laying Farm Road, Hardwick, GA 31034",1976,
-10001421,Burruss Correctional Training Ctr,GA,Yes,Full,"1000 Indian Springs Drive, Forsyth, GA 31029",1986,
-10002146,Calhoun State Prison,GA,Yes,Partial,"27823 Main Street, Morgan, GA 39866",1993,
-10002134,Central State Prison,GA,Yes,Full,"4600 Fulton Mill Road, Macon, GA 31208",1978,
-10000314,Coastal State Prison,GA,Yes,Full,"200 Gulf Stream Road, Garden City, GA 31418",1981,
-10002138,Dodge State Prison,GA,Yes,Partial,"2971 Old Bethel Church Road, Chester, GA 31012",1982,
-10006154,Dooly State Prison,GA,Yes,Partial,"1412 Plunkett Road, Unadilla, GA 31091",1993,
-10004496,Emanuel Womens Facility,GA,Yes,Full,"714 Gumlog Road, Swainsboro, GA 30401",1995,
+10002102,Lee Arrendale State Prison,GA,Yes,Partial,"2023 Gainesville Hwy, Alto, GA 30510",1926,
+10000328,Valdosta State Prison,GA,No,None,"3259 Valtech Road, Valdosta, GA 31601",1956,Renovated in 1989
 10000298,GA Diagnostic Class Prison,GA,Yes,Partial,"2978 Hwy 36 West Prison Blvd, Jackson, GA 30233",1968,
-10000298,Hancock State Prison,GA,Yes,Partial,"701 Prison Blvd, Sparta, GA 31087",1990,
+10000308,Montgomery State Prison,GA,Yes,Full,"650 Mt. Vernon/ Alston Rd, Mt. Vernon, GA 30445",1972,
+10000283,Walker State Prison,GA,Yes,Full,"97 Kevin Lane, Rock Spring, GA 30739",1972,
+10002129,Baldwin State Prison,GA,Yes,Full,"140 Laying Farm Road, Hardwick, GA 31034",1976,
+10000304,Rutledge State Prison,GA,Yes,Partial,"7175 Manor Road, Columbus, GA 31907",1976,
+10002134,Central State Prison,GA,Yes,Full,"4600 Fulton Mill Road, Macon, GA 31208",1978,
+10000323,Lee State Prison,GA,Yes,Partial,"153 Pinewood Drive, Leesburg, GA 31763",1978,
+10000292,Metro Reentry Facility,GA,Yes,Full,"1301 Constitution Road Se, Atlanta, GA 30316",1980,Renovated 2017
+10000314,Coastal State Prison,GA,Yes,Full,"200 Gulf Stream Road, Garden City, GA 31418",1981,
+10006153,Augusta State Med. Prison,GA,Yes,Partial,"3001 Gordon Hwy, Grovetown, GA 30813",1982,
+10002138,Dodge State Prison,GA,Yes,Partial,"2971 Old Bethel Church Road, Chester, GA 31012",1982,
+10000310,Rogers State Prison,GA,Yes,Partial,"1978 Georgia Highway 147, Reidsville, GA 30453",1983,
+10001421,Burruss Correctional Training Ctr,GA,Yes,Full,"1000 Indian Springs Drive, Forsyth, GA 31029",1986,
+10002106,Phillips State Prison,GA,No,None,"2989 West Rock Quarry Road, Buford, GA 30519",1988,Only medical unit has AC
 10000284,Hays State Prison,GA,Yes,Partial,"777 Underwood Drive, Trion, GA 30753",1989,
+10002147,Ware State Prison,GA,Yes,Partial,"3620 Harris Road, Waycross, GA 31503",1989,
+10000298,Hancock State Prison,GA,Yes,Partial,"701 Prison Blvd, Sparta, GA 31087",1990,
 10001415,Helms Facility,GA,Yes,Full,"1275 Constitution Rd Se, Atlanta, GA 30316",1990,Renovated 2005 and 2011
 10000303,Johnson State Prison,GA,Yes,Partial,"290 Donovan- Harrison Road, Wrightsville, GA 31096",1991,
-10002102,Lee Arrendale State Prison,GA,Yes,Partial,"2023 Gainesville Hwy, Alto, GA 30510",1926,
-10000323,Lee State Prison,GA,Yes,Partial,"153 Pinewood Drive, Leesburg, GA 31763",1978,
-10005199,Long Unit,GA,Yes,Full,"1434 Us Hwy 84 East, Ludowici, GA 31316",2004,
-10002137,Macon State Prison,GA,Yes,Partial,"2728 Hwy 49 South, Oglethorpe, GA 31068",1993,
-10000292,Metro Reentry Facility,GA,Yes,Full,"1301 Constitution Road Se, Atlanta, GA 30316",1980,Renovated 2017
-10000308,Montgomery State Prison,GA,Yes,Full,"650 Mt. Vernon/ Alston Rd, Mt. Vernon, GA 30445",1972,
-10002106,Phillips State Prison,GA,No,None,"2989 West Rock Quarry Road, Buford, GA 30519",1988,Only medical unit has AC
-10000307,Pulaski State Prison,GA,Yes,Partial,"373 Upper River Road, Hawkinsville, GA 31036",1994,
-10000310,Rogers State Prison,GA,Yes,Partial,"1978 Georgia Highway 147, Reidsville, GA 30453",1983,
-10000304,Rutledge State Prison,GA,Yes,Partial,"7175 Manor Road, Columbus, GA 31907",1976,
-10000309,Smith State Prison,GA,Yes,Partial,"9676 Hwy 301 North, Glennville, GA 30427",1993,
 10000316,Telfair State Prison,GA,Yes,Partial,"170 Longbridge Road, Helena, GA 31037",1991,
-10000328,Valdosta State Prison,GA,No,None,"3259 Valtech Road, Valdosta, GA 31601",1956,Renovated in 1989
-10000283,Walker State Prison,GA,Yes,Full,"97 Kevin Lane, Rock Spring, GA 30739",1972,
-10002147,Ware State Prison,GA,Yes,Partial,"3620 Harris Road, Waycross, GA 31503",1989,
 10002126,Washington State Prison,GA,No,None,"13262 Highway 24 East, Davisboro, GA 31018",1991,
 10004453,Whitworth Women's Facility,GA,Yes,Full,"414 Valley Hart Road, Hartwell, GA 30643",1991,
+10000325,Autry State Prison,GA,Yes,Partial,"3178 Mount Zion Church Road, Pelham, GA 31779",1992,
+10002146,Calhoun State Prison,GA,Yes,Partial,"27823 Main Street, Morgan, GA 39866",1993,
+10006154,Dooly State Prison,GA,Yes,Partial,"1412 Plunkett Road, Unadilla, GA 31091",1993,
+10002137,Macon State Prison,GA,Yes,Partial,"2728 Hwy 49 South, Oglethorpe, GA 31068",1993,
+10000309,Smith State Prison,GA,Yes,Partial,"9676 Hwy 301 North, Glennville, GA 30427",1993,
 10000318,Wilcox State Prison,GA,Yes,Partial,"470 South Broad Street, Abbeville, GA 31001",1993,
+10000307,Pulaski State Prison,GA,Yes,Partial,"373 Upper River Road, Hawkinsville, GA 31036",1994,
+10004496,Emanuel Womens Facility,GA,Yes,Full,"714 Gumlog Road, Swainsboro, GA 30401",1995,
+10005199,Long Unit,GA,Yes,Full,"1434 Us Hwy 84 East, Ludowici, GA 31316",2004,
 10001082,Anamosa State Penitentiary,IA,Yes,Partial,"406 North High Street, Anamosa, IA 52205",1899,
-10001099,Clarinda Correctional Facility,IA,Yes,Full,"2000 North 16th Street, Clarina, IA 51632",1980,
-10001100,Iowa State Penitentiary,IA,Yes,Full,"2111 330th Avenue, PO Box 316, Fort Madison, IA 52627",2014,
-10001077,Fort Dodge Correctional Facility,IA,Yes,Full,"1550 L Street, Fort Dodge, IA 50501",1996,
-10001087,Iowa Correctional Institution for Women,IA,Yes,Full,"420 Mill Street SW, Mitchelville, IA 50169",,
-10001096,Mt. Pleasant Correctional Facility,IA,No,None,"1200 East Washington Street, Mt. Pleasant, IA 52641",1976,
-10001090,Newton Correctional Facility,IA,Yes,Full,"Box 218, 307 S. 60th Avenue W., Newton, IA 50208",,
 10001091,Iowa Medical and Classification Center,IA,Yes,Full,"2700 Coral Ridge Avenue, Coralville, IA 52241",1969,
+10001096,Mt. Pleasant Correctional Facility,IA,No,None,"1200 East Washington Street, Mt. Pleasant, IA 52641",1976,
+10001099,Clarinda Correctional Facility,IA,Yes,Full,"2000 North 16th Street, Clarina, IA 51632",1980,
 10001080,North Central Correctional Facility,IA,Yes,Full,"313 Lanedale, Rockwell City, IA 50579-7464",1982,
-10001075,Branchville Correctional,IN,Yes,Partial,"21390 Old State Road 37, Branchville, IN 47514",1986-2000,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
-10004895,Chain O' Lakes Correctional,IN,No,None,"3516 E 75 South, Albion, IN 46701",not provided,
-10001060,Correctional Industrial,IN,Yes,Partial,"5124 W. Reformatory Road, Pendleton, IN 46064",1986-1989,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
+10001077,Fort Dodge Correctional Facility,IA,Yes,Full,"1550 L Street, Fort Dodge, IA 50501",1996,
+10001100,Iowa State Penitentiary,IA,Yes,Full,"2111 330th Avenue, PO Box 316, Fort Madison, IA 52627",2014,
+10001087,Iowa Correctional Institution for Women,IA,Yes,Full,"420 Mill Street SW, Mitchelville, IA 50169",,
+10001090,Newton Correctional Facility,IA,Yes,Full,"Box 218, 307 S. 60th Avenue W., Newton, IA 50208",,
 10004920,Edinburgh Correctional,IN,No,None,"703 23rd St., Edinburgh, IN 46124",1942,
-10006309,Heritage Trail,IN,Yes,Full,"501 W. Main Street, Plainfield, Indiana 46168",1938-1961,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
-10005599,Indiana State Prison,IN,No,None,"1 Park Row, Michigan City, IN 46360",not provided,
-10001065,Indiana Women's Prison,IN,Yes,Partial,"2596 GIRLS SCHOOL ROAD, INDIANAPOLIS, IN",1971-2004,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
-10001059,Miami Correctional,IN,Yes,Full,"3038 West 850 South, Bunker Hill, IN 46914",not provided,
-10004913,New Castle Correctional,IN,Yes,Full,"1000 Van Nuys Road, P.O. Box E, New Castle, IN 47362",2002-2012,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
+10001054,South Bend Community Re-Entry Center,IN,Yes,Full,"4650 Old Cleveland Road, South Bend IN, 46628",2001,
 10001061,Pendleton Correctional,IN,Yes,Partial,"4490 W. Reformatory Rd., Pendleton, IN 46064",1923-1991,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
+10001071,Putnamville Correctional,IN,Yes,Partial,"1946 West U.S. Hwy 40, Greencastle, IN 46135",1935-1991,only mental health dorm and control booth have ACs. date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
+10006309,Heritage Trail,IN,Yes,Full,"501 W. Main Street, Plainfield, Indiana 46168",1938-1961,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
+10001051,Westville Correctional,IN,Yes,Partial,"5501 S 1100 W, Westville, IN 46391",1946-2014,only WCU segregation unit has AC. date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
 10001068,Plainfield Correctional,IN,No,None,"727 Moon Road, Plainfield, IN 46168
 
 ",1963-1997,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
-10001071,Putnamville Correctional,IN,Yes,Partial,"1946 West U.S. Hwy 40, Greencastle, IN 46135",1935-1991,only mental health dorm and control booth have ACs. date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
 10001067,Reception Diagnostic Center,IN,Yes,Partial,"737 Moon Road, Plainfield, IN 46168",1968-1992,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
 10001063,Rockville Correctional,IN,Yes,Full,"811 W. 50 N., Rockville, IN 47872",1970-1996,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
-10001054,South Bend Community Re-Entry Center,IN,Yes,Full,"4650 Old Cleveland Road, South Bend IN, 46628",2001,
+10001065,Indiana Women's Prison,IN,Yes,Partial,"2596 GIRLS SCHOOL ROAD, INDIANAPOLIS, IN",1971-2004,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
+10001060,Correctional Industrial,IN,Yes,Partial,"5124 W. Reformatory Road, Pendleton, IN 46064",1986-1989,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
+10001075,Branchville Correctional,IN,Yes,Partial,"21390 Old State Road 37, Branchville, IN 47514",1986-2000,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
 10001072,Wabash Valley Correctional,IN,Yes,Partial,"6908 S. Old US Hwy 41, Carlisle, IN 47838",1992-1995,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
-10001051,Westville Correctional,IN,Yes,Partial,"5501 S 1100 W, Westville, IN 46391",1946-2014,only WCU segregation unit has AC. date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
-10001040,Ellsworth Correctional Facility,KS,Yes,Partial,"1607 State Street, Ellsworth, KS 67439",1989,East Unit has an unknown building completion date.
-10001045,El Dorado Correctional Facility,KS,Yes,Full,"1734 SE US Highway 54, El Dorado, KS 67042",1990,SE Unit completed in 1990. Central unit completed in 1991.
+10004913,New Castle Correctional,IN,Yes,Full,"1000 Van Nuys Road, P.O. Box E, New Castle, IN 47362",2002-2012,date range provided; different dorms were built at different times. please refer to original document for more dorm-level dates.
+10004895,Chain O' Lakes Correctional,IN,No,None,"3516 E 75 South, Albion, IN 46701",not provided,
+10005599,Indiana State Prison,IN,No,None,"1 Park Row, Michigan City, IN 46360",not provided,
+10001059,Miami Correctional,IN,Yes,Full,"3038 West 850 South, Bunker Hill, IN 46914",not provided,
 10001043,Hutchinson Correctional Facility,KS,No,None,"500 South Reformatory Road, Hutchinson, KS 67504",1890,"Central unit completed in 1890, East Unit in 1988/1951, and South Unit in 1985"
-10001031,Lansing Correctional Facility,KS,Yes,Full,"301 East Kansas, Lansing, KS 66043",1990,"X Dorm opened in 1990, E Dorm and Central Unit in 2020"
-10001830,Larned State Correctional Facility,KS,Yes,Full,"1318 Kansas Highway 264, Larned, KS 67550",1991,"Central Unit opened in 1991, South Unit in 2001, and West Unit is unknown"
+10001050,Winfield Correctional Facility,KS,Yes,Partial,"1806 Pinecrest Circle, Winfield, KS 67156",1935,Central Unit built in 1935 and WWRF in 1952
 10001028,Norton Correctional Facility,KS,Yes,Partial,"11130 Rd E4, Norton, KS 67654",1939,Central Unit opened in 1939 and East Unit in 1975
 10001033,Topeka Correctional Facility,KS,Yes,Full,"815 SE Rice Road, Topeka, KS 66607",1974,Central Unit built in 1974 and I-J Compound built in 1993/unknown
-10001050,Winfield Correctional Facility,KS,Yes,Partial,"1806 Pinecrest Circle, Winfield, KS 67156",1935,Central Unit built in 1935 and WWRF in 1952
+10001040,Ellsworth Correctional Facility,KS,Yes,Partial,"1607 State Street, Ellsworth, KS 67439",1989,East Unit has an unknown building completion date.
+10001045,El Dorado Correctional Facility,KS,Yes,Full,"1734 SE US Highway 54, El Dorado, KS 67042",1990,SE Unit completed in 1990. Central unit completed in 1991.
+10001031,Lansing Correctional Facility,KS,Yes,Full,"301 East Kansas, Lansing, KS 66043",1990,"X Dorm opened in 1990, E Dorm and Central Unit in 2020"
+10001830,Larned State Correctional Facility,KS,Yes,Full,"1318 Kansas Highway 264, Larned, KS 67550",1991,"Central Unit opened in 1991, South Unit in 2001, and West Unit is unknown"
+10000120,Kentucky State Penitentiary,KY,Yes,Full,"266 Water Street Eddyville, Kentucky 42038",1889,
+10000106,KY Correctional Institution for Women,KY,Yes,Full,"3000 Ash Ave. Pewee Valley, Kentucky 40056",1938,
+10000103,Kentucky State Reformatory,KY,Yes,Full,"3001 W Hwy 146 LaGrange, Kentucky 40032",1939,
 10000122,Bell County Forestry Camp,KY,Yes,Full,"560 Correctional Drive Pineville, KY 40977",1962,
 10003650,Blackburn Correctional Complex,KY,Yes,Full,"3111 Spurr Road Lexington, KY 40511",1972,
-10000110,Eastern KY Correctional Complex,KY,Yes,Full,"200 Road to Justice West Liberty, KY 41472",1990,
-10000117,Green River Correctional Complex,KY,Yes,Full,"1200 River Road P.O. Box 9300 Central City, KY 42330",1994,
-10000106,KY Correctional Institution for Women,KY,Yes,Full,"3000 Ash Ave. Pewee Valley, Kentucky 40056",1938,
-10000120,Kentucky State Penitentiary,KY,Yes,Full,"266 Water Street Eddyville, Kentucky 42038",1889,
-10000103,Kentucky State Reformatory,KY,Yes,Full,"3001 W Hwy 146 LaGrange, Kentucky 40032",1939,
-10000115,Lee Adjustment Center,KY,Yes,Full,"168 Lee Adjustment Center Drive Beattyville, KY 41311",,
-10000107,Little Sandy Correctional Complex,KY,Yes,Full,"505 Prison Connector Sandy Hook, Kentucky 41171",2005,
+10000102,Roederer Correctional Complex,KY,Yes,Full,"P.O. Box 69 LaGrange, Kentucky 40031",1976,
+10000121,Western Kentucky Corrections Complex,KY,Yes,Full,"374 New Bethel Church Road Fredonia, KY 42411",1977,
 10000101,Luther Luckett Correctional Complex,KY,Yes,Full,"1612 Dawkins Road P.O. ​Box 6 LaGrange, Kentucky 40031",1981,
 10000116,Northpoint Training Center,KY,Yes,Full,"710 Walter Reed Rd. Danville, KY 40422",1983,
-10000102,Roederer Correctional Complex,KY,Yes,Full,"P.O. Box 69 LaGrange, Kentucky 40031",1976,
+10000110,Eastern KY Correctional Complex,KY,Yes,Full,"200 Road to Justice West Liberty, KY 41472",1990,
+10000117,Green River Correctional Complex,KY,Yes,Full,"1200 River Road P.O. Box 9300 Central City, KY 42330",1994,
+10000107,Little Sandy Correctional Complex,KY,Yes,Full,"505 Prison Connector Sandy Hook, Kentucky 41171",2005,
 10000112,Southeast State Correctional Complex,KY,Yes,Full,"327 Correctional Drive P.O. Box 1600 Wheelwright, KY 41669",2020,
-10000121,Western Kentucky Corrections Complex,KY,Yes,Full,"374 New Bethel Church Road Fredonia, KY 42411",1977,
-10001401,Lemuel Shattuck Hospital Correctional Unit,MA,Yes,Partial,"180 Morton St., Jamaica Plain, MA 02130",1987,Additional unit added in 1982 
-10001404,MASAC at Plymouth,MA,No,None,"Myles Standish State Forest, 1 Bump Pond Rd., Plymouth, MA 02360",1952,Additional unit added in 1984
-10002098,Massachusetts Treatment Center,MA,Yes,Partial,"30 Administration Rd., Bridgewater, MA 02324",1984,Additonal expansion added in 1996
-10000281,MCI-Concord,MA,Yes,Partial,"965 Elm St., P.O. Box 9106, Concord, MA 01742",1878,"Additional unit in 1989, 1996, 2005"
+10000115,Lee Adjustment Center,KY,Yes,Full,"168 Lee Adjustment Center Drive Beattyville, KY 41311",,
 10004444,MCI-Framingham,MA,Yes,Partial,"99 Loring Dr., P.O. Box 9007, Framingham, MA 01701",1877,Additional unit in 1965
-10001393,MCI-Shirley,MA,Yes,Partial,"104 Harvard Road, Shirley, MA 01464",1908,"Additional unit in 1972, 1987, and merged with unit in 1990"
+10000281,MCI-Concord,MA,Yes,Partial,"965 Elm St., P.O. Box 9106, Concord, MA 01742",1878,"Additional unit in 1989, 1996, 2005"
 10004449,North Central Correctional Institution,MA,Yes,Partial,"500 Colony Rd., P.O. Box 466, Gardner, MA 01440",1902,Additional unit in 1998
+10001393,MCI-Shirley,MA,Yes,Partial,"104 Harvard Road, Shirley, MA 01464",1908,"Additional unit in 1972, 1987, and merged with unit in 1990"
+10001404,MASAC at Plymouth,MA,No,None,"Myles Standish State Forest, 1 Bump Pond Rd., Plymouth, MA 02360",1952,Additional unit added in 1984
 10004451,Old Colony Correctional Center,MA,Yes,Partial,"1 Administration Rd., Bridgewater, MA 02324",1980,"Additional units in 1987, 1990"
+10002098,Massachusetts Treatment Center,MA,Yes,Partial,"30 Administration Rd., Bridgewater, MA 02324",1984,Additonal expansion added in 1996
+10001401,Lemuel Shattuck Hospital Correctional Unit,MA,Yes,Partial,"180 Morton St., Jamaica Plain, MA 02130",1987,Additional unit added in 1982 
 10001396,Souza-Baranowski Correctional Center,MA,Yes,Full,"1671 Shirley Road, Lancaster, MA 01523",1998,
-10001552,Baltimore City Correctional Center,MD,No,None,901 Greenmount Ave. Baltimore MD 21202,1984,Supports Services Building has AC
-10002359,Central Maryland Correctional Facility,MD,No,None,7301 Buttercup Rd. Sykesville MD 21784,1963,Supports Services Building has AC
-10006353,Dorsey Run Correctional Institution,MD,No,None,2020 Toulson Rd. Jessup MD 20794,2015,Supports Services Building has AC
-10001570,Eastern Correctional Annex,MD,No,None,30430 Revells Neck Rd. Westover MD 21890,1993,Supports Services Building has AC
-10001569,Eastern Correctional Institution,MD,No,None,30420 Revells Neck Rd. Westover MD 21890,1987,Supports Services Building has AC
-10000919,Jessup Correctional Institution,MD,No,None,7805 House of Corrections Rd. Jessup MD 20794,1994,Supports Services Building has AC
-10001559,Maryland Correctional Institution for Women,MD,No,None,7943 Brock Bridge Rd. Jessup MD 20794,1986,Supports Services Building has AC
 10001548,Maryland Correctional Institution Hagerstown,MD,No,None,18601 Roxbury Rd. Hagerstown MD 21746,1940,Supports Services Building has AC
+10002364,Patuxent Institution,MD,No,None,7555 Waterloo Rd. Jessup MD 20794,1954,Supports Services Building has AC
+10002359,Central Maryland Correctional Facility,MD,No,None,7301 Buttercup Rd. Sykesville MD 21784,1963,Supports Services Building has AC
 10001546,Maryland Correctional Training Center,MD,No,None,18800 Roxbury Rd. Hagerstown MD 21746,1966,Supports Services Building has AC
 10001560,Mayland Correctional Institution Jessup,MD,No,None,7931 Brock Bridge Rd. Jessup MD 20794,1981,Supports Services Building has AC
-10001543,North Branch Correctional Institution,MD,No,None,"14100 McMullen Hwy, Cumberland MD 21502",2003,Supports Services Building has AC
-10002364,Patuxent Institution,MD,No,None,7555 Waterloo Rd. Jessup MD 20794,1954,Supports Services Building has AC
 10001547,Roxbury Correctional Instituion,MD,No,None,18701 Roxbury Rd. Hagerstown MD 21746,1981,Supports Services Building has AC
+10001552,Baltimore City Correctional Center,MD,No,None,901 Greenmount Ave. Baltimore MD 21202,1984,Supports Services Building has AC
+10001559,Maryland Correctional Institution for Women,MD,No,None,7943 Brock Bridge Rd. Jessup MD 20794,1986,Supports Services Building has AC
+10001569,Eastern Correctional Institution,MD,No,None,30420 Revells Neck Rd. Westover MD 21890,1987,Supports Services Building has AC
+10001570,Eastern Correctional Annex,MD,No,None,30430 Revells Neck Rd. Westover MD 21890,1993,Supports Services Building has AC
+10000919,Jessup Correctional Institution,MD,No,None,7805 House of Corrections Rd. Jessup MD 20794,1994,Supports Services Building has AC
 10001542,Western Correctional Institution,MD,No,None,"13800 McMullen Hwy, Cumberland MD 21502",1995,Supports Services Building has AC
+10001543,North Branch Correctional Institution,MD,No,None,"14100 McMullen Hwy, Cumberland MD 21502",2003,Supports Services Building has AC
+10006353,Dorsey Run Correctional Institution,MD,No,None,2020 Toulson Rd. Jessup MD 20794,2015,Supports Services Building has AC
+10001938,Mountain View Correctional Facility,ME,Yes,Partial,"1182 Dover Rd, Charleston, Maine 04422",1960,"MV minimum does not have AC but does have operational windows in each room. Additions in 1982, 2001"
 10000100,Bolduc Correctional Facility,ME,No,None,"516 Cushing Road Warren, Maine 04864",1966,Is not a climate-controlled environment– it does have operational windows
-10001162,Downeast Correctional Facility,ME,No,None,"64 Base Road Machiasport, Maine 04655",2021,Is not climate controlled but there are operational windows in each living area
 10001165,Maine Correctional Center,ME,Yes,Full,"17 Mallison Falls Rd, Windham, Maine 04062",2001,Has either a climate-controlled environment or operating windows
 10001163,Maine State Prison,ME,Yes,Partial,"807 Cushing Road, Warren Maine 04864",2001,
-10001938,Mountain View Correctional Facility,ME,Yes,Partial,"1182 Dover Rd, Charleston, Maine 04422",1960,"MV minimum does not have AC but does have operational windows in each room. Additions in 1982, 2001"
-10001319,MCF-Moose Lake,MN,No,None,"1000 Lakeshore Dr, Moose Lake, MN 55767",1938,"Additional units in 1950, 1953"
-10001322,MCF-Rush City,MN,Yes,Full,"7600 525th St, Rush City, MN 55069",1999,
-10001325,MCF-Lino Lakes,MN,Yes,Partial,"7525 4th Ave, Lino Lakes, MN 55014",1963,"Additional units in 1992, 1996, 2004"
+10001162,Downeast Correctional Facility,ME,No,None,"64 Base Road Machiasport, Maine 04655",2021,Is not climate controlled but there are operational windows in each living area
+10001324,MCF-St. Cloud,MN,Yes,Partial,"2305 Minnesota Blvd, St Cloud, MN 56304",1888,"Additional unit in 1896, 1905, 1915, 1920, 1926, 1938"
 10001330,MCF-Stillwater,MN,Yes,Partial,"970 Pickett Ave N, Bayport, MN 55003",1910,"Additional units in 1927, 1940, 2008"
+10000262,MCF-Faribault,MN,Yes,Partial,"1101 Linden Ln, Faribault, MN 55021",1913,"Additional units added in 1947, 1964, 1995, 2008, 2009"
+"Houses 40 adult male prisoners in minimum-security, reentry housing. Red Wing is primarily a juvenile facility ",MCF-Red Wing,MN,Yes,Full,"1079 County 292 Blvd, Red Wing, MN 55066",1921,"Additional units in 1938, 1961, 1965, 1996"
+10001319,MCF-Moose Lake,MN,No,None,"1000 Lakeshore Dr, Moose Lake, MN 55767",1938,"Additional units in 1950, 1953"
+10001318,MCF-Togo,MN,No,None,"62741 Co Rd 551, Cook, MN 55723",1958,Additional unit in 1966
+10001325,MCF-Lino Lakes,MN,Yes,Partial,"7525 4th Ave, Lino Lakes, MN 55014",1963,"Additional units in 1992, 1996, 2004"
 10001331,MCF-Oak Park Heights,MN,Yes,Full,"5329 N Osgood Ave, Oak Park Heights, MN 55082",1981,
 10001333,MCF-Shakopee,MN,Yes,Full,"1010 6th Ave W, Shakopee, MN 55379",1986,Additional unit in 1994
-"Houses 40 adult male prisoners in minimum-security, reentry housing. Red Wing is primarily a juvenile facility ",MCF-Red Wing,MN,Yes,Full,"1079 County 292 Blvd, Red Wing, MN 55066",1921,"Additional units in 1938, 1961, 1965, 1996"
-10001318,MCF-Togo,MN,No,None,"62741 Co Rd 551, Cook, MN 55723",1958,Additional unit in 1966
-10001324,MCF-St. Cloud,MN,Yes,Partial,"2305 Minnesota Blvd, St Cloud, MN 56304",1888,"Additional unit in 1896, 1905, 1915, 1920, 1926, 1938"
+10001322,MCF-Rush City,MN,Yes,Full,"7600 525th St, Rush City, MN 55069",1999,
 10006211,MCF-Willow River,MN,Yes,Full,"1000 Lakeshore Dr, Moose Lake, MN 55767",2007,
-10000262,MCF-Faribault,MN,Yes,Partial,"1101 Linden Ln, Faribault, MN 55021",1913,"Additional units added in 1947, 1964, 1995, 2008, 2009"
+10004194,Eastern Correctional Institution,NC,Yes,Full,"2821 N.C. Highway 903, Maury, NC 28554",1983,
+10001784,Southern Correctional Institution,NC,Yes,Full,"272 Glen Road, Troy, NC 27371",1983,
+10001769,Foothills Correctional Institution,NC,Yes,Full,"5150 Western Ave. Morganton, NC 28655",1994,
+10001787,Craven Correctional Institution,NC,Yes,Partial,"600 Alligator Road, Vanceboro, NC 28586",1996,
+10001750,Dan River Prison Work Farm,NC,Yes,Partial,"981 Murray Road, Blanch, NC 27212",1996,
+10001752,Pasquotank Correctional Institution,NC,Yes,Full,"527 Commerce Drive, Elizabeth City, NC 27906",1996,
+10001747,Granville Correctional Institution,NC,Yes,Full,"1001 Veazey Road, Butner, NC 27509",1997,
+10004146,Warren Correctional Institution,NC,Yes,Partial,"379 Collins Road, Manson, NC 27553",1997,
+10001754,Mountain View Correctional Institution,NC,Yes,Full,"545 Amity Park Road, Spruce Pine, NC 28777",1998,
+10001793,Scotland Correctional Institution,NC,Yes,Full,"22385 McGirts Bridge Road, Laurinburg, NC 28353",2003,
+10001759,Bertie Correctional Institution,NC,Yes,Full,"218 Cooper Hill Road, Windsor, NC 27983",2006,
+10006217,Western Correctional Center for Women,NC,Yes,Full,"55 Lake Eden Road, Black Mountain, NC 28711",2008,
 10001786,Albemarle Correctional Institution,NC,Yes,Partial,"44150 Airport Road, New London, NC 28127",,
 10001023,Alexander Correctional Institution,NC,Yes,Full,"633 Old Landfill Road, Taylorsville, NC 28681",,
 10001790,Anson Correctional Institution,NC,Yes,Partial,"552 Prison Camp Road, Polkton, NC 28135",,
 10006147,Avery-Mitchell Correctional Institution,NC,Yes,Partial,"600 Amity Park Road, Spruce Pine, NC 28777",,
-10001759,Bertie Correctional Institution,NC,Yes,Full,"218 Cooper Hill Road, Windsor, NC 27983",2006,
 10004170,Caldwell Correctional Center,NC,Yes,Partial,"480 Pleasant Hill Road, Lenoir, NC 28645",,
 10004216,Carteret Correctional Center,NC,Yes,Partial,"1084 Orange Street, Newport, NC 28570",,
 10001749,Caswell Correctional Center,NC,Yes,Partial,"444 County Home Road, Blanch, NC 27212",,
@@ -145,15 +156,10 @@ facility_id,prison_name,state,ac_status,ac_status_details,address,building_compl
 10001766,Central Prison,NC,Yes,Full,"1300 Western Boulevard, Raleigh, NC 27606",,
 10001798,Columbus Correctional Institution,NC,No,None,"1255 Prison Camp Road, Whiteville, NC 28472",,
 10002640,Craggy Correctional Institution,NC,No,None,"22 Canoe Lane, Asheville, NC 28804",,
-10001787,Craven Correctional Institution,NC,Yes,Partial,"600 Alligator Road, Vanceboro, NC 28586",1996,
-10001750,Dan River Prison Work Farm,NC,Yes,Partial,"981 Murray Road, Blanch, NC 27212",1996,
 10004177,Davidson Correctional Center,NC,Yes,Partial,"1400 Thomason Street, Lexington, NC 27292",,
-10004194,Eastern Correctional Institution,NC,Yes,Full,"2821 N.C. Highway 903, Maury, NC 28554",1983,
-10001769,Foothills Correctional Institution,NC,Yes,Full,"5150 Western Ave. Morganton, NC 28655",1994,
 10004159,Forsyth Correctional Center,NC,Yes,Partial,"307 Craft Drive, Winston-Salem, NC 27105",,
 10004157,Franklin Correctional Center,NC,Yes,Partial,"5918 NC Highway 39 South Bunn, NC 27508",,
 10004210,Gaston Correctional Center,NC,Yes,Partial,"520 Justice Court Dallas, NC 28034",,
-10001747,Granville Correctional Institution,NC,Yes,Full,"1001 Veazey Road, Butner, NC 27509",1997,
 10001775,Greene Correctional Institution,NC,Yes,Partial,"2699 Hwy. 903, Maury, NC 28554",,
 10001025,Harnett Correctional Institution,NC,Yes,Partial,"1210 E. McNeill Street, Lillington, NC 27546",,
 10004193,Hyde Correctional Institution,NC,Yes,Full,"620 Prison Road, Fairfield, NC 27826",,
@@ -162,14 +168,12 @@ facility_id,prison_name,state,ac_status,ac_status_details,address,building_compl
 10001027,Lumberton Correctional Institution,NC,Yes,Partial,"75 Legend Road, Lumberton, NC 28359",,
 10001770,Marion Correctional Institution,NC,Yes,Full,"355 Old Glenwood Road, Marion, NC 28752",,
 10001776,Maury Correctional Institution,NC,Yes,Full,"2568 Moore Rouse Road, Hookerton, NC 28538",,
-10001754,Mountain View Correctional Institution,NC,Yes,Full,"545 Amity Park Road, Spruce Pine, NC 28777",1998,
 10004173,NC Correctional Institution for Women,NC,Yes,Partial,"1034 Bragg Street, Raleigh, NC 27610",,
 10001763,Nash Correctional Institution,NC,Yes,Full,"2869 US 64 Alt., Nashville NC 27856",,
 10001782,Neuse Correctional Institution,NC,Yes,Full,"701 Stevens Mill Rd, Goldsboro, NC 27533",,
 10001801,New Hanover Correctional Center,NC,Yes,Full,"330 Division Drive, Wilmington, NC 28401",,
 10004165,Orange Correctional Center,NC,Yes,Partial,"2110 Clarence Walters Road, Hillsborough, NC 27278",,
 10001788,Pamlico Correctional Institution,NC,Yes,Full,"601 North Third Street, Bayboro, NC 28515",,
-10001752,Pasquotank Correctional Institution,NC,Yes,Full,"527 Commerce Drive, Elizabeth City, NC 27906",1996,
 10004226,Pender Correctional Institution,NC,Yes,Partial,"906 Penderlea Highway, Burgaw, NC 28425",,
 10004183,Piedmont Correctional Institution,NC,Yes,Partial,"1245 Camp Road, Salisbury, NC 28147",,
 10001771,Randolph Correctional Center,NC,Yes,Partial,"2760 US 220 Business, Asheboro, NC 27203",,
@@ -178,141 +182,159 @@ facility_id,prison_name,state,ac_status,ac_status_details,address,building_compl
 10001778,Rutherford Correctional Center,NC,Yes,Partial,"549 Ledbetter Road, Spindale, NC 28160",,
 10004213,Sampson Correctional Institution,NC,Yes,Partial,"700 Northwest Blvd, US 421 North, Clinton, NC 28328",,
 10001777,Sanford Correctional Center,NC,Yes,Full,"417 Advancement Center Rd. Sanford, NC 27330",,
-10001793,Scotland Correctional Institution,NC,Yes,Full,"22385 McGirts Bridge Road, Laurinburg, NC 28353",2003,
-10001784,Southern Correctional Institution,NC,Yes,Full,"272 Glen Road, Troy, NC 27371",1983,
 10001799,Tabor Correctional Institution,NC,Yes,Full,"4600 Swamp Fox Highway, West Tabor City, NC 28463",,
 10001021,Tyrrell Prison Work Farm,NC,No,None,"Snell Road, Columbia, NC 27925",,
-10004146,Warren Correctional Institution,NC,Yes,Partial,"379 Collins Road, Manson, NC 27553",1997,
-10006217,Western Correctional Center for Women,NC,Yes,Full,"55 Lake Eden Road, Black Mountain, NC 28711",2008,
 10004153,Wilkes Correctional Center,NC,Yes,Partial,"404 Statesville Road, North Wilkesboro, NC 28659",,
 10004174,Wake Correctional Center,NC,Yes,Full,"1000 Rock Quarry Road, Raleigh, NC 27610",,
-10003601,North Dakota State Penitentiary,ND,Yes,Full,"3100 Railroad Ave. Bismarck, ND 58506",1960,"West cell house opened in 1960. Prison is comprised of buildings from 1956, 1982, 1987, 1981, 1990, 2012"
 10003603,James River Correctional Center,ND,Yes,Full,"2521 Circle Drive Jamestown, ND 58401",1936,"ET Housing built in 1936. Prisons is comprised of buildings from 1925, 1938, 1966, 1987, 2000, 2005"
-10003602,Missouri River Correctional Center,ND,Yes,Full,"1800 48th Ave S.W. Bismarck, ND 58506",1991,"Dorm building built in 1991. Prison is comprised of buildings from 1940, 1942, 1982, 1975, 1984, 1998, 1991, 2015"
+10003601,North Dakota State Penitentiary,ND,Yes,Full,"3100 Railroad Ave. Bismarck, ND 58506",1960,"West cell house opened in 1960. Prison is comprised of buildings from 1956, 1982, 1987, 1981, 1990, 2012"
 New facility - established in 2021,Heart River Correctional Center,ND,Yes,Full,"701 16th Ave SW Mandan, ND 58554",1961,"Is designed to hold minimum security women, but also the locatin of the Youth Correctional Center"
-10004121,NH Correctional Facility for Women in Concord,NH,Yes,Full,"42 Perimeter Rd, Concord, NH 03301",2018,
+10003602,Missouri River Correctional Center,ND,Yes,Full,"1800 48th Ave S.W. Bismarck, ND 58506",1991,"Dorm building built in 1991. Prison is comprised of buildings from 1940, 1942, 1982, 1975, 1984, 1998, 1991, 2015"
 10004118,NH State Prison for Men,NH,No,None,"281 N State St, Concord, NH 03301",1878,extensive renovations in the 1980s
 10004116,Northern NH Correctional Facility,NH,No,None,"138 East Milan Rd. Berlin, NH 03570",2000,
-10002987,Carlin Conservation Camp,NV,Yes,Full,"124 Suzie Creek Rd, Carlin, NV 89822",1988,
-10003014,Casa Grande Transitional Housing ,NV,Yes,Full,"3955 W Russell Rd, Las Vegas, NV 89118",2005,
-10003799,Ely State Prison ,NV,Yes,Full,"4569 N Styate Rt 490, Ely, NV 89301",1969,
-10000261,Florence McClure Women’s Correctional Center ,NV,Yes,Full,"4370 Smiley Road, Las Vegas, NV 89115",2004,
-10003004,High Desert State Prison ,NV,Yes,Full,"22010 Cold Creek Cold, Indian Springs, NV 89070",2000,
-10003012,Jean Conservation Camp,NV,Yes,Full,"3 Prison Road, Jean, NV 89019",1988,
-10002991,Lovelock Correctional Center ,NV,Yes,Full,"1200 Prison Road, Lovelock, NV 89419",1995,
+10004121,NH Correctional Facility for Women in Concord,NH,Yes,Full,"42 Perimeter Rd, Concord, NH 03301",2018,
 10002996,Northern Nevada Correctional Center ,NV,Yes,Full,"1721 E Snyder, Carson City, NV 89701",1964,
-10000260,Northern Nevada Transitional Housing ,NV,Yes,Full,"225 Sunshine Lane, Reno, NV 89502",2015,
-10003002,Pioche Conservation Camp,NV,Yes,Full,"1 Hardtimes Road, Pioche, NV 89043",1980,
+10003799,Ely State Prison ,NV,Yes,Full,"4569 N Styate Rt 490, Ely, NV 89301",1969,
 10003005,Southern Desert Correctional Center ,NV,Yes,Full,"20825 Cold Creek Road, Indian Spring, NV 89070",1978,
 10002997,Stewart Conservation Camp,NV,Yes,Full,"1721 E Snyder, Carson City, NV 89701",1978,
+10003002,Pioche Conservation Camp,NV,Yes,Full,"1 Hardtimes Road, Pioche, NV 89043",1980,
 10003006,Three Lakes Valley Conservation Camp,NV,Yes,Full,"20825 Cold Creek Road, Indian Spring, NV 89070",1982,
-10002998,Tonopah Conservation Camp,NV,Yes,Full,"HC 76, Tonopah, NV 89049",1991,
 10000258,Wells Conservation Camp,NV,Yes,Full,"HC 67-50, Wells, NV 89835",1985,
-10001298,Coffee Creek Correctional Facility,OR,Yes,Full,"24499 SW Grahams Ferry Road, Wilsonville, Oregon 97070",2001,
-10002958,Columbia River Correctional Institution,OR,Yes,Full,"9111 NE Sun​derland Avenue, Portland, Oregon 97211",1990,
-10000257,Deer Ridge Correctional Institution,OR,Yes,Partial,"3920 East Ashwood Road, Madras, Oregon 97741",2007,"Partial AC. Most buildings and housing units have AC, not all."
+10002987,Carlin Conservation Camp,NV,Yes,Full,"124 Suzie Creek Rd, Carlin, NV 89822",1988,
+10003012,Jean Conservation Camp,NV,Yes,Full,"3 Prison Road, Jean, NV 89019",1988,
+10002998,Tonopah Conservation Camp,NV,Yes,Full,"HC 76, Tonopah, NV 89049",1991,
+10002991,Lovelock Correctional Center ,NV,Yes,Full,"1200 Prison Road, Lovelock, NV 89419",1995,
+10003004,High Desert State Prison ,NV,Yes,Full,"22010 Cold Creek Cold, Indian Springs, NV 89070",2000,
+10000261,Florence McClure Women’s Correctional Center ,NV,Yes,Full,"4370 Smiley Road, Las Vegas, NV 89115",2004,
+10003014,Casa Grande Transitional Housing ,NV,Yes,Full,"3955 W Russell Rd, Las Vegas, NV 89118",2005,
+10000260,Northern Nevada Transitional Housing ,NV,Yes,Full,"225 Sunshine Lane, Reno, NV 89502",2015,
+10001734,Allen Gamble Correctional Center,OK,Yes,Full,"6888 E 133rd Road, Holdenville, OK  74848",not provided,"AKA Davis Correctional Facility, used to be a private prison, now under Oklahoma Dept. of Corrections. According to other sources on the internet, it opened in 1996 but ODOC has not confirmed in their response."
+10003565,"Charles E. ""Bill"" Johnson Correctional Center",OK,Yes,Partial,"1856 E Flynn St, Alva, OK 73717",1995,"units 1, 2, 4 have AC"
+10002629,Clara Waters Community Corrections Center,OK,Yes,Full,"9901 N I- 35 Service Rd, Oklahoma City, OK 73131",1978,
+10003568,Dick Conner Correctional Center,OK,No,None,"129 Conner Road, Hominy, OK, 74035",1979,
+10003571,Dr. Eddie Warrior Correctional Center,OK,Yes,Full,"601 N Oak St, Taft, OK 74463",1909,
+10001722,Enid Community Corrections Center,OK,Yes,Full,"2020 E Maine Ave, Enid, OK 73701",1974,
+10003579,Great Plains Correctional Center,OK,Yes,Full,"700 Sugar Creek Rd, Hinton, OK 73047",1998,
+10003591,Howard McLeod Correctional Center,OK,No,None,"19603 E. Whippoorwill Lane, Atoka, OK 74525",1961,
+10003585,Jackie Brannon Correction Center,OK,Yes,Full,"900 N. West Street, McAlester, OK 74502",1927,
+10001016,James Crabtree Correction Center,OK,Yes,Full,"216 N. Murray Street, Helena, OK 73741",1904,
+10001725,Jess Dunn Correctional Center,OK,Yes,Partial,"601 South 124th Street West, Taft, OK 74463",1932,only SHU has AC
+10001731,Jim E. Hamilton Correctional Center,OK,Yes,Partial,"53468 Mineral Spring Rd, Hodgen, OK 74939",1930,only unit 3 has AC
+10001729,John Lilley Correctional Center,OK,Yes,Partial,"407971 Hwy 62E, Boley, OK 74829",1925,"units 1, 4 have AC"
+10001732,Joseph Harp Correctional Center,OK,Yes,Partial,"16161 Moffatt Rd, Lexington, OK 73051",1978,"units G,J, K have AC"
+10003590,Lawton Community Corrections Center,OK,Yes,Full,"605 Southwest Coombs Road, Lawton, OK 73501",1973,
+10001733,Lexington Assessment & Reception Center,OK,Yes,Partial,"15151 State Highway 39, Lexington, OK 73051",1971,"1, 2, 6, 7, 8, 9 have AC"
+10003580,Mabel Bassett Correctional Center,OK,Yes,Full,"29501 Kickapoo Rd., McLoud, OK 74851",1998,
+10003592,Mack Alford Correctional Center,OK,Yes,Full,"13001 North Highway 69, Atoka, OK 74525",1930,
+10003566,Northeast Oklahoma Community Corrections Center,OK,Yes,Full,"442586 E. 250 Road, Vinita, OK 74301",1980,
+10003584,Oklahoma State Penitentiary,OK,Yes,Full,"1301 N. West St., McAlester, OK 74502",1908,
+10003587,Oklahoma State Reformatory,OK,Yes,Full,"1700 E 1st St, Granite, OK 73547",1910,
+10003572,Union City Community Corrections Center,OK,Yes,Full,"700 North Highway 81, Union City, OK 73090",1999,
 10001294,Eastern Oregon Correctional Institution,OR,Yes,Full,"2500 Westgate, Pendleton, Oregon 97801",1912,"Until its conversion to a prison, EOCI had been a state mental hospital, with most of the buildings originally constructed in 1912-13."
-10001302,Oregon State Correctional Institution,OR,Yes,Full,"3405 Deer Park Drive SE, Salem, Oregon 97310",1959,
 10002968,Oregon State Penitentiary,OR,Yes,Full,"2605 State Street, Salem, OR 97310",1929,The exact building completion is hard to track down. I put the completion date as the oldest date in which a dormitory/dorm was completed
-10006639,Oregon State Penitentiary Minimum,OR,Yes,Partial,"2605 State Street, Salem, OR 97310",1965,"The Main Facility AIC has AC, but not the Dormitory AIC."
-10001306,Powder River Correctional Facility,OR,Yes,Partial,"3600 13th Street, Baker City, Oregon 97814",1990,"Partial AC, but there is AC in the AIC housing"
 10002971,Santiam Correctional Institution,OR,Yes,Full,"4005 Aumsville Hwy SE, Salem, OR 97317",1945,
+10001302,Oregon State Correctional Institution,OR,Yes,Full,"3405 Deer Park Drive SE, Salem, Oregon 97310",1959,
+10006639,Oregon State Penitentiary Minimum,OR,Yes,Partial,"2605 State Street, Salem, OR 97310",1965,"The Main Facility AIC has AC, but not the Dormitory AIC."
 10002957,South Fork Forest Camp,OR,Yes,Full,"48300 Wilson River Hwy, Tillamook, OR 97141",1988,
+10002958,Columbia River Correctional Institution,OR,Yes,Full,"9111 NE Sun​derland Avenue, Portland, Oregon 97211",1990,
+10001306,Powder River Correctional Facility,OR,Yes,Partial,"3600 13th Street, Baker City, Oregon 97814",1990,"Partial AC, but there is AC in the AIC housing"
 10001310,Snake River Correctional Institution,OR,Yes,Full,"777 Stanton Blvd., Ontario, Oregon 97914",1992,
 10001295,Two Rivers Correctional Institution,OR,Yes,Full,"82911 Beach Access Road, Umatilla, OR 97882",1999,
+10001298,Coffee Creek Correctional Facility,OR,Yes,Full,"24499 SW Grahams Ferry Road, Wilsonville, Oregon 97070",2001,
 10006966,Warner Creek Correctional Facility,OR,Yes,Full,"20654 Rabbit Hill Road, Lakeview, OR 97630",2005,
-10000709,Albion,PA,Yes,Full,"10745 Route 18 Albion, Pa. 16475",1993,
-10006363,Benner,PA,Yes,Full,"301 Institution Dr Bellefonte, PA 16823",2011,
-10003048,Cambridge Springs,PA,Yes,Full,"451 Fullerton Ave Cambridge Springs, PA 16403",1925,
-10000733,Camp Hill,PA,Yes,Full,"2500 Lisburn Rd Camp Hill, PA 17001",1940,
-10003117,Chester,PA,Yes,Full,"500 E 4th St Chester, PA 19013",1992,
-10003064,Coal Township,PA,Yes,Full,"10 Kelley Dr Coal Township, PA 17866",1993,
-10000718,Dallas,PA,Yes,Full,"1000 Follies Rd Dallas, PA 18612",1959,
-10003109,Fayette,PA,Yes,Full,"50 Overlook Dr LaBelle, PA 15450",2003,
-10003052,Forest,PA,Yes,Full,"286 Woodland Dr Marienville, PA 16239",2003,
-10003074,Frackville,PA,Yes,Full,"1111 Altamont Blvd Frackville, PA 17931",1987,
-10003121,Greene,PA,Yes,Full,"169 Progress Dr Waynesburg, PA 15370",1993,
-10000721,Houtzdale,PA,Yes,Full,"209 Institution Dr Houtzdale, PA 16654",1995,
+10000257,Deer Ridge Correctional Institution,OR,Yes,Partial,"3920 East Ashwood Road, Madras, Oregon 97741",2007,"Partial AC. Most buildings and housing units have AC, not all."
 10000728,Huntingdon,PA,Yes,Full,"1100 Pike St Huntingdon, PA 16654",1889,
-10003107,Laurel Highlands,PA,Yes,Full,"5706 Glades Pike Somerset, PA 15501",1949,
-10003073,Mahanoy,PA,Yes,Full,"301 Morea Rd Frackville, PA 17932",1993,
-10003056,Mercer,PA,Yes,Full,"801 Butler Pike Mercer, PA 16137",1978,
 10003054,Muncy,PA,Yes,Full,"6454 Route 405 
 Muncy, PA 17756",1907,
-New facility - opened in 2018,Phoenix,PA,Yes,Full,"1200 Mokychic Dr Collegeville, PA 19426",2018,
-10003077,Pine Grove,PA,Yes,Full,"189 Fyock Rd Indiana, PA 15701",1999,
-10001489,Quehanna Boot Camp,PA,No,Full,"4395 Quehanna Hwy Karthaus, PA 16845",1957,
-10003062,Rockview,PA,Yes,Full,"1 Rockview Pl Bellefonte, PA 16823",1915,
-10003082,Smithfield,PA,Yes,Full,"1120 Pike St Huntingdon, PA 16652",1988,
-10000737,Somerset,PA,Yes,Full,"1590 Walters Mill Rd Somerset, PA 15510",1993,
 10003047,Waymart,PA,Yes,Full,"11 Farview Dr Waymart, PA 18472",1910,
+10003062,Rockview,PA,Yes,Full,"1 Rockview Pl Bellefonte, PA 16823",1915,
+10003048,Cambridge Springs,PA,Yes,Full,"451 Fullerton Ave Cambridge Springs, PA 16403",1925,
+10000733,Camp Hill,PA,Yes,Full,"2500 Lisburn Rd Camp Hill, PA 17001",1940,
+10003107,Laurel Highlands,PA,Yes,Full,"5706 Glades Pike Somerset, PA 15501",1949,
+10001489,Quehanna Boot Camp,PA,No,Full,"4395 Quehanna Hwy Karthaus, PA 16845",1957,
+10000718,Dallas,PA,Yes,Full,"1000 Follies Rd Dallas, PA 18612",1959,
+10003056,Mercer,PA,Yes,Full,"801 Butler Pike Mercer, PA 16137",1978,
+10003074,Frackville,PA,Yes,Full,"1111 Altamont Blvd Frackville, PA 17931",1987,
+10003082,Smithfield,PA,Yes,Full,"1120 Pike St Huntingdon, PA 16652",1988,
+10003117,Chester,PA,Yes,Full,"500 E 4th St Chester, PA 19013",1992,
+10000709,Albion,PA,Yes,Full,"10745 Route 18 Albion, Pa. 16475",1993,
+10003064,Coal Township,PA,Yes,Full,"10 Kelley Dr Coal Township, PA 17866",1993,
+10003121,Greene,PA,Yes,Full,"169 Progress Dr Waynesburg, PA 15370",1993,
+10003073,Mahanoy,PA,Yes,Full,"301 Morea Rd Frackville, PA 17932",1993,
+10000737,Somerset,PA,Yes,Full,"1590 Walters Mill Rd Somerset, PA 15510",1993,
+10000721,Houtzdale,PA,Yes,Full,"209 Institution Dr Houtzdale, PA 16654",1995,
+10003077,Pine Grove,PA,Yes,Full,"189 Fyock Rd Indiana, PA 15701",1999,
+10003109,Fayette,PA,Yes,Full,"50 Overlook Dr LaBelle, PA 15450",2003,
+10003052,Forest,PA,Yes,Full,"286 Woodland Dr Marienville, PA 16239",2003,
+10006363,Benner,PA,Yes,Full,"301 Institution Dr Bellefonte, PA 16823",2011,
+New facility - opened in 2018,Phoenix,PA,Yes,Full,"1200 Mokychic Dr Collegeville, PA 19426",2018,
 10001123,South Dakota State Penitentiary,SD,Yes,Full,"1600 North Drive PO Box 5911 Sioux Falls, SD 5711",1881,Facility was fitted for a cooling system in 2021.
-10001121,Jameson Annex,SD,Yes,Full,"1600 North Drive PO Box 5911 Sioux Falls, SD 5711",1993,Facility was built with AC.
-10001128,Mike Durfee State Prison,SD,Yes,Partial,"1412 North Wood Street, Springfield, SD 57062",,"This prison is on the grounds of the former University of South Dakota-Springfield and utilizes several of the schools residence halls for housing offenders. Those buildings were not built with air conditioning. However, some rooms in those buildings are equipped with window air conditioning units due to the medical needs of the offenders housed there. There is currently a feasibility study underway to determine if those buildings can be fitted for a cooling system. A barracks unit was constructed in 2005. That unit was fitted for a cooling system in 2022. "
 10001125,Yankton Minimum Center,SD,Yes,Full,"178 Mickelson Drive Yankton, SD 57078",1938,Building that houses offenders is located on the grounds of the state Human Services Center. The building has AC/cooling system.
-10001118,Rapid City Minimum Center,SD,Yes,Full,"2725 Creek Drive Rapid City, SD 57703",2012,Facility was built with AC.
+10001121,Jameson Annex,SD,Yes,Full,"1600 North Drive PO Box 5911 Sioux Falls, SD 5711",1993,Facility was built with AC.
 10002657,South Dakota Women's Prison,SD,Yes,Full ,"3200 East Highway 34 c/o 500 E. Capitol Ave. Pierre, SD 57501",1997,Facility was built with AC.
-10002716,Allred,TX,Yes,Partial,"2101 FM 369 North Iowa Park, TX 76367",1995,
+10001118,Rapid City Minimum Center,SD,Yes,Full,"2725 Creek Drive Rapid City, SD 57703",2012,Facility was built with AC.
+10001128,Mike Durfee State Prison,SD,Yes,Partial,"1412 North Wood Street, Springfield, SD 57062",,"This prison is on the grounds of the former University of South Dakota-Springfield and utilizes several of the schools residence halls for housing offenders. Those buildings were not built with air conditioning. However, some rooms in those buildings are equipped with window air conditioning units due to the medical needs of the offenders housed there. There is currently a feasibility study underway to determine if those buildings can be fitted for a cooling system. A barracks unit was constructed in 2005. That unit was fitted for a cooling system in 2022. "
+10000210,Huntsville,TX,No,None,"815 12th Street, Huntsville, TX 77348",1849,
+10000211,Wynne,TX,No,None,"810 FM 2821, Huntsville, TX 77349",1883,
+10002885,Vance,TX,No,None,"2 Jester Road, Richmond, TX 77406",1885,
+10000243,Clemens,TX,No,None,"11034 Hwy 36, Brazoria, TX 77422",1893,
+10000213,Goree,TX,No,None,"7405 Hwy 75 South, Huntsville, TX 77344",1907,
+10000242,Ramsey,TX,No,None,"1100 FM 655, Rosharon, TX 77583",1908,
+10000244,Stringfellow,TX,No,None,"1200 FM 655, Rosharon, TX 77583",1908,
+10000246,Memorial,TX,No,None,"59 Darrington Road, Rosharon, TX 77583",1917,
+10002822,Wainwright,TX,No,None,"2665 Prison Road #1, Lovelady, TX 75851",1917,
+10000206,Ferguson,TX,No,None,"12120 Savage Drive, Midway, TX 75852",1962,
+10001984,Byrd,TX,No,None,"21 FM 247, Huntsville, TX 77320",1964,
+10000187,Coffield,TX,No,None,"2661 FM 2054. Tennessee Colony, TX 75884",1965,
+10000212,Ellis,TX,No,None,"1697 FM 980, Huntsville, TX 77343",1965,
+10000194,O'Daniel,TX,Yes,Partial,"2305 Ransom Road, Gatesville, TX 76528",1975,
 10001978,Beto,TX,Yes,Partial,"1391 FM 3328, Tennessee Colony, TX 75880",1980,
+10001275,Crain,TX,Yes,Partial,"1401 State School Road, Gatesville, TX 76599-2999",1980,
+10002817,Hilltop,TX,Yes,Partial,"1500 State School Road, Gatesville, TX 76598-2996",1981,
+10000234,Jester III,TX,Yes,Partial,"3 Jester Road, Richmond, TX 77406",1982,
+10000220,Luther,TX,Yes,Partial,"1800 Luther Drive, Navasota, TX 77868",1982,
+10000185,Powledge,TX,Yes,Partial,"1400 FM 3452, Palestine, TX 75803",1982,
+10002838,Pack,TX,Yes,Full,"2400 Wallace Pack Road, Navasota, TX 77868",1983,
+10000241,Terrell,TX,Yes,Partial,"1300 FM 655, Rosharon, TX 77583",1983,
+10000215,Estelle,TX,Yes,Partial,"264 FM 3478, Huntsville, TX 77320-3320",1984,
+10000186,Michael,TX,Yes,Partial,"2664 FM 2054, Tennessee Colony, TX 75886",1987,
+10000174,Daniel,TX,Yes,Partial,"938 South FM 1673, Snyder, TX 79549",1989,
+10002827,Hobby,TX,Yes,Partial,"742 FM 712, Marlin, TX 76661",1989,
+10000154,Clements,TX,Yes,Partial,"9601 Spur 591, Amarillo, TX 79107-9606",1990,
+10000224,Hightower,TX,No,None,"902 FM 686, Dayton, TX 77535",1990,
+10000196,Hughes,TX,Yes,Partial,"3201 FM 929, Gatesville, TX 76597",1990,
+10000208,Lewis,TX,Yes,Partial,"777 FM 3497, Woodville, TX 75990",1990,
+10000156,Roach,TX,Yes,Partial,"15845 FM 164, Childress, TX 79201",1991,
 10000190,Boyd,TX,Yes,Partial,"200 Spur 113, Teague, TX 75860-2007",1992,
 10000247,Briscoe,TX,Yes,Partial,"1459 West Highway 85, Dilley, TX 78017",1992,
-10001984,Byrd,TX,No,None,"21 FM 247, Huntsville, TX 77320",1964,
-10000243,Clemens,TX,No,None,"11034 Hwy 36, Brazoria, TX 77422",1893,
-10000154,Clements,TX,Yes,Partial,"9601 Spur 591, Amarillo, TX 79107-9606",1990,
-10000187,Coffield,TX,No,None,"2661 FM 2054. Tennessee Colony, TX 75884",1965,
-10002905,Connally,TX,Yes,Partial,"899 FM 632, Kenedy, TX 78119",1995,
 10002920,Cotulla,TX,Yes,Full,"610 FM 624, Cotulla, TX 78014",1992,
-10001275,Crain,TX,Yes,Partial,"1401 State School Road, Gatesville, TX 76599-2999",1980,
-10000151,Dalhart,TX,Yes,Partial,"11950 FM 998, Dalhart, TX 79022",1995,
-10000174,Daniel,TX,Yes,Partial,"938 South FM 1673, Snyder, TX 79549",1989,
-10000212,Ellis,TX,No,None,"1697 FM 980, Huntsville, TX 77343",1965,
-10000215,Estelle,TX,Yes,Partial,"264 FM 3478, Huntsville, TX 77320-3320",1984,
-10000206,Ferguson,TX,No,None,"12120 Savage Drive, Midway, TX 75852",1962,
 10000200,Fort Stockton,TX,Yes,Full,"1536 IH-10 East Fort Stockton, TX 79735",1992,
-10002916,Garza West,TX,Yes,Partial,"4250 Highway 202, Beeville, TX 78102",1994,
-10000204,Goodman,TX,Yes,Partial,"349 Private Road 8430, Jasper, TX 75951",1995,
-10000213,Goree,TX,No,None,"7405 Hwy 75 South, Huntsville, TX 77344",1907,
-10000224,Hightower,TX,No,None,"902 FM 686, Dayton, TX 77535",1990,
-10002817,Hilltop,TX,Yes,Partial,"1500 State School Road, Gatesville, TX 76598-2996",1981,
-10002827,Hobby,TX,Yes,Partial,"742 FM 712, Marlin, TX 76661",1989,
-10000209,Holliday,TX,Yes,Partial,"295 IH-45 North, Huntsville, TX 77320-8443",1994,
-10000196,Hughes,TX,Yes,Partial,"3201 FM 929, Gatesville, TX 76597",1990,
-10000210,Huntsville,TX,No,None,"815 12th Street, Huntsville, TX 77348",1849,
-10000234,Jester III,TX,Yes,Partial,"3 Jester Road, Richmond, TX 77406",1982,
 10000152,Jordan,TX,Yes,Partial,"1992 Helton Road, Pampa, TX 79065",1992,
-10000208,Lewis,TX,Yes,Partial,"777 FM 3497, Woodville, TX 75990",1990,
-10000220,Luther,TX,Yes,Partial,"1800 Luther Drive, Navasota, TX 77868",1982,
-10000203,Lynaugh,TX,Yes,Partial,"1098 South Highway 2037, Fort Stockton, TX 79735",1995,
 10002828,Marlin,TX,Yes,Full,"2893 State Hwy 6, Marlin, TX 76661-6588",1992,
 10000248,McConnell,TX,Yes,Partial,"3001 South Emily Drive, Beeville, TX 78102",1992,
 10000155,Mechler,TX,Yes,Full,"4000 Highway 86 West, Tulia, TX 79088",1992,
-10000246,Memorial,TX,No,None,"59 Darrington Road, Rosharon, TX 77583",1917,
-10000186,Michael,TX,Yes,Partial,"2664 FM 2054, Tennessee Colony, TX 75886",1987,
-10000176,Middleton,TX,Yes,Partial,"13055 FM 3522, Abilene, TX 79601",1994,
-10002725,"Moore, C.",TX,Yes,Partial,"1700 North FM 87, Bonham, TX 75418",1995,
-10001274,Murray,TX,Yes,Partial,"1916 North Hwy 36 Bypass, Gatesville, TX 76596",1995,
-10000238,Ney,TX,Yes,Full,"114 Private Road 4303, Hondo, TX 78861-3812",1995,
-10000194,O'Daniel,TX,Yes,Partial,"2305 Ransom Road, Gatesville, TX 76528",1975,
-10002838,Pack,TX,Yes,Full,"2400 Wallace Pack Road, Navasota, TX 77868",1983,
-10000205,Polunsky,TX,Yes,Partial,"3872 FM 350 South, Livingston, TX 77351",1993,
-10000185,Powledge,TX,Yes,Partial,"1400 FM 3452, Palestine, TX 75803",1982,
-10000242,Ramsey,TX,No,None,"1100 FM 655, Rosharon, TX 77583",1908,
-10000156,Roach,TX,Yes,Partial,"15845 FM 164, Childress, TX 79201",1991,
 10000175,Robertson,TX,Yes,Partial,"12071 FM 3522, Abilene, TX 79601",1992,
 10000199,San Saba,TX,Yes,Full,"206 South Wallace Creek Road, San Saba, TX 76877",1992,
 10002758,Smith,TX,Yes,Partial,"1313 CR 19, Lamesa, TX 79331-1898",1992,
-10002900,Stevenson,TX,Yes,Partial,"1525 FM 766, Cuero, TX 77954",1994,
+10000205,Polunsky,TX,Yes,Partial,"3872 FM 350 South, Livingston, TX 77351",1993,
 10000229,Stiles,TX,Yes,Partial,"3060 FM 3514, Beaumont, TX 77705",1993,
-10000244,Stringfellow,TX,No,None,"1200 FM 655, Rosharon, TX 77583",1908,
-10002731,Telford,TX,Yes,Partial,"3899 Hwy 98, New Boston, TX 75570",1995,
-10000241,Terrell,TX,Yes,Partial,"1300 FM 655, Rosharon, TX 77583",1983,
 10000237,Torres,TX,Yes,Partial,"125 Private Road 4303, Hondo, TX 78861",1993,
-10002885,Vance,TX,No,None,"2 Jester Road, Richmond, TX 77406",1885,
-10002822,Wainwright,TX,No,None,"2665 Prison Road #1, Lovelady, TX 75851",1917,
+10002916,Garza West,TX,Yes,Partial,"4250 Highway 202, Beeville, TX 78102",1994,
+10000209,Holliday,TX,Yes,Partial,"295 IH-45 North, Huntsville, TX 77320-8443",1994,
+10000176,Middleton,TX,Yes,Partial,"13055 FM 3522, Abilene, TX 79601",1994,
+10002900,Stevenson,TX,Yes,Partial,"1525 FM 766, Cuero, TX 77954",1994,
 10000180,Wallace/San Angelo Work Camp,TX,Yes,Partial,"1675 South FM 3525, Colorado City, TX 79512",1994,
-10000211,Wynne,TX,No,None,"810 FM 2821, Huntsville, TX 77349",1883,
-New facility - opened in 2022,Utah State Correctional Facility,UT,Yes,Full,"1480 N. 8000 W. Salt Lake City, Utah 84116",2022,"Air conditioning type is Indirect, Direct, and DX"
+10002716,Allred,TX,Yes,Partial,"2101 FM 369 North Iowa Park, TX 76367",1995,
+10002905,Connally,TX,Yes,Partial,"899 FM 632, Kenedy, TX 78119",1995,
+10000151,Dalhart,TX,Yes,Partial,"11950 FM 998, Dalhart, TX 79022",1995,
+10000204,Goodman,TX,Yes,Partial,"349 Private Road 8430, Jasper, TX 75951",1995,
+10000203,Lynaugh,TX,Yes,Partial,"1098 South Highway 2037, Fort Stockton, TX 79735",1995,
+10002725,"Moore, C.",TX,Yes,Partial,"1700 North FM 87, Bonham, TX 75418",1995,
+10001274,Murray,TX,Yes,Partial,"1916 North Hwy 36 Bypass, Gatesville, TX 76596",1995,
+10000238,Ney,TX,Yes,Full,"114 Private Road 4303, Hondo, TX 78861-3812",1995,
+10002731,Telford,TX,Yes,Partial,"3899 Hwy 98, New Boston, TX 75570",1995,
 10002617,Central Utah Correctional Facility ,UT,Yes,Full,"255 E. 300 North, Gunnison, UT 84634",1989,Different types of air conditioning has been added since the building completion. Additional building units have been added over the years.
+New facility - opened in 2022,Utah State Correctional Facility,UT,Yes,Full,"1480 N. 8000 W. Salt Lake City, Utah 84116",2022,"Air conditioning type is Indirect, Direct, and DX"
 10001573,Augusta Correctional Center,VA,No,None,"1821 Estaline Valley Road, Craigsville, VA 24430",not provided,
 10003331,Baskerville Correctional Center,VA,No,None,"4150 Hayes Mill Road, Baskerville, VA 23915",not provided,
 ,Beaumont Correctional Center,VA,Yes,Full,"3500 Beaumont Rd., Beaumont, VA 23014",not provided,
@@ -355,27 +377,27 @@ New facility - opened in 2022,Utah State Correctional Facility,UT,Yes,Full,"1480
 10001575,Virginia Correctional Center for Women,VA,Yes,Full,"2841 River Road, Goochland, VA 23063",not provided,
 10001591,Wallens Ridge State Prison,VA,Yes,Full,"272 DOGWOOD DR, BIG STONE GAP, VA, 24219",not provided,facility not on website but provided to us in our records response
 10003308,Wise Correctional Unit,VA,No,None,"3602 Bear Lane, Coeburn, VA 24230",not provided,
-10000092,Caledonia Community Work Camp,VT,No,None,"1266 US Route 5, St. Johnsbury, VT",1993,"AC only in Building A: Admin offices, classrooms"
+10001116,Northwest State Correctional Facility,VT,No,None,"3649 Lower Newton Rd, St. Albans Town, VT 05478",1967,"I &J Building: Training rooms. Silva Building (no housing units): Entire building, except library. Main Building: medical, staff break room, Admin area, admin conference room. Additional construction in 1973"
 10001914,Chittenden Regional Correctional Facility,VT,Yes,Full,"7 Farrell St, South Burlington, VT 05403",1974,"Entire facility, except dining room."
 10000095,Marble Valley Regional Correctional Facility,VT,Yes,Full,"67 State St, Rutland, VT 05701",1979,"Entire facility, except multi-purpose room across from the gym, used for storage"
 10001918,Northeast Regional Correctional Facility,VT,No,None,"1270 US-5, St Johnsbury, VT 05819",1982,"AC not in housing units. AC in Main Building: Admin area, visiting, library, medical, main control, security server room. AC in Education Building: Entire building, except storage room. Additional construction in 1984."
+10000092,Caledonia Community Work Camp,VT,No,None,"1266 US Route 5, St. Johnsbury, VT",1993,"AC only in Building A: Admin offices, classrooms"
 10001913,Northern State Correctional Facility,VT,No,None,"2559 Glen RdNewport, VT 05855",1993,"AC in VCI 1: supervisor’s office. VCI 2: supervisor’s office, drafting room. AC in Echo Building: Second floor offices, group room, conference room. AC in A2 Building: Server room, main control, medical, dental. AC in A1 Building: Admin offices, staff break room. Additional construction in 1997, 1999"
-10001116,Northwest State Correctional Facility,VT,Yes,Partial,"3649 Lower Newton Rd, St. Albans Town, VT 05478",1967,"I &J Building: Training rooms. Silva Building: Entire building, except library. Main Building: medical, staff break room, Admin area, admin conference room. Additional construction in 1973"
 10000094,Southern State Correctional Facility,VT,No,None,"700 Charlestown Rd, Springfield, VT 05156
 ",2003,"AC in Core building: training/conference room, electrical room, main control, main control server room, medical. AC in DEF building: Foxtrot control room."
-10001677,Airway Heights Corrections Center,WA,Yes,Full,"11919 Sprague Ave, Airway Heights, WA 99001",1993,
-10000987,Clallam Bay Corrections Center,WA,No,None,"1830 Eagle Crest Way, Clallam Bay, WA 98326",1986,
-10002491,Cedar Creek Corrections Center,WA,No,None,"12200 Bordeaux Road, Littlerock, WA 98556",1998,
-10001687,Coyote Ridge Corrections Center,WA,Yes,Full,"1301 N Ephrata Ave, Connell, WA 99326",2009,
-10001676,Monroe Correctional Complex,WA,Yes,Partial,"16550 177th Avenue SE, Monroe, WA 98272",1981,
-10002479,Mission Creek Corrections Center for Women,WA,Yes,Full,"3420 NE Sand Hill Road, Belfair, WA 98528",1960,
-10002455,Olympic Corrections Center,WA,No,None,"11235 Hoh Mainline, Forks, WA 98331",1967,
-10001681,Stafford Creek Corrections Center ,WA,Yes,Partial,"191 Constantine Way, Aberdeen, WA 98520",2000,
-10001679,Washington Corrections Center ,WA,No,None,"2321 West Dayton Airport Road, Shelton, WA 98584",1964,
-10001684,Washington Corrections Center for Women,WA,Yes,Partial,"9601 Bujacich Rd. NW, Gig Harbor, WA 98332",1976,
 10002506,Washington State Penitentiary,WA,Yes,Full,"1313 North 13th Avenue, Walla Walla, WA 99362",1932,
-10000053,Wyoming Medium Correctional Institution (WMCI) ,WY,Yes,Full,"7076 Road 55F Torrington, WY 82240",2009,"For the Admin, Programing & Housing Building"
+10002479,Mission Creek Corrections Center for Women,WA,Yes,Full,"3420 NE Sand Hill Road, Belfair, WA 98528",1960,
+10001679,Washington Corrections Center ,WA,No,None,"2321 West Dayton Airport Road, Shelton, WA 98584",1964,
+10002455,Olympic Corrections Center,WA,No,None,"11235 Hoh Mainline, Forks, WA 98331",1967,
+10001684,Washington Corrections Center for Women,WA,Yes,Partial,"9601 Bujacich Rd. NW, Gig Harbor, WA 98332",1976,
+10001676,Monroe Correctional Complex,WA,Yes,Partial,"16550 177th Avenue SE, Monroe, WA 98272",1981,
+10000987,Clallam Bay Corrections Center,WA,No,None,"1830 Eagle Crest Way, Clallam Bay, WA 98326",1986,
+10001677,Airway Heights Corrections Center,WA,Yes,Full,"11919 Sprague Ave, Airway Heights, WA 99001",1993,
+10002491,Cedar Creek Corrections Center,WA,No,None,"12200 Bordeaux Road, Littlerock, WA 98556",1998,
+10001681,Stafford Creek Corrections Center ,WA,Yes,Partial,"191 Constantine Way, Aberdeen, WA 98520",2000,
+10001687,Coyote Ridge Corrections Center,WA,Yes,Full,"1301 N Ephrata Ave, Connell, WA 99326",2009,
 10000056,Wyoming Women’s Center (WWC),WY,Yes,Full,"1000 W Griffith Street Lusk, WY 82225",1984,Mother/Child was remodeled in 2012
-10000057,Wyoming State Penitentiary (WSP),WY,Yes,Full,"2900 S Higley Road Roawlins, WY 82301",2001,Inmate housing (K unit) was built in 2006
-10000053,WHCC Wyoming Honor Conservation Camp,WY,Yes,Full,"40 Pippin Road Newcastle, WY 82701",1999,Boot Camp Building (Barracks) was built in 2000 and Dorm C was built in 2006. All have air conditioning 
 10000055,Wyoming Honor Farm (WHF),WY,Yes,Full,"40 Honor Farm Road Riverton, WY 82501",1986,"Dorm C was built in 1986, but Dorm A was completed in 1996, Dorm B in 1994, and Dorm D in 2005"
+10000053,WHCC Wyoming Honor Conservation Camp,WY,Yes,Full,"40 Pippin Road Newcastle, WY 82701",1999,Boot Camp Building (Barracks) was built in 2000 and Dorm C was built in 2006. All have air conditioning 
+10000057,Wyoming State Penitentiary (WSP),WY,Yes,Full,"2900 S Higley Road Roawlins, WY 82301",2001,Inmate housing (K unit) was built in 2006
+10000053,Wyoming Medium Correctional Institution (WMCI) ,WY,Yes,Full,"7076 Road 55F Torrington, WY 82240",2009,"For the Admin, Programing & Housing Building"
