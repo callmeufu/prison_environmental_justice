@@ -10,6 +10,10 @@ authors:
   given-names: "Michael"
 - family-names: "Diongue"
   given-names: "Ahmed"
+- family-names: "Trainor"
+  given-names: "Clare"
+- family-names: "Raychaudhuri"
+  given-names: "Disha"
 title: "prison_environmental_justice"
 version: 1.0.0
 doi: 10.5281/zenodo.1234
