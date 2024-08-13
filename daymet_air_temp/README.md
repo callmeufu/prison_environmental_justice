@@ -1,7 +1,7 @@
 ## Data Preprocessing
 
 1. **Loading and Cleaning Data:**
-  - The raw prison boundaries data was read into a GeoDataFrame (prisonsRaw) and ensured that the FACILITYID column is treated as a string.
+  - The raw prison boundaries data (see [prison_datasets/raw_hifld_table.csv](../prison_datasets/raw_hifld_table.csv)) was read into a GeoDataFrame (prisonsRaw) and ensured that the FACILITYID column is treated as a string.
   - The [clean list of prisons](./Input) was loaded into a DataFrame (prisonsClean), also ensuring the FACILITYID column is treated as a string.
   - The raw data was filtered to include only those prisons whose FACILITYID was present in the clean list. The filtered data was then deep-copied to create prisonsFinal.
 2. **Geometric Transformation:**
@@ -13,7 +13,8 @@
 ## Air Temperature Processing and Analysis 
 [Daymet](https://daymet.ornl.gov/overview) is a data product derived from a collection of algorithms and computer software designed to interpolate and extrapolate from daily meteorological observations to produce gridded estimates of daily weather parameters. Weather parameters generated include daily surfaces of minimum and maximum temperature, precipitation, vapor pressure, radiation, snow water equivalent, and day length produced on a 1 km x 1 km gridded surface. The choice of Daymet for air temperature was selected because it is high in spatial resolution and offers spatially continuous measurements up to the most recently completed calendar year.
 
-The primary code for this analysis is <here>
+The primary code for this analysis is in the [output](./Output) folder
+
 1. **Global Variables:**
 - Defined variables for the date range (first_day_summer and last_day_summer), the start and end years (begin_year and end_year), and placeholder variables (prisons_shapes, time_series, csv_writer) used across functions.
 2. **Temperature Conversion and Heat Estimation:**
@@ -46,3 +47,5 @@ Results from each chunk are concatenated into a single DataFrame.
 6. **Combining and Saving Results:**
 - All processed chunks were combined into a single DataFrame.
 - The combined DataFrame was saved as a CSV file, containing the processed heat statistics for all prisons over the specified range of years.
+
+The most recently processed dataset is [processed_prisons_1990_2023.csv](./Output)
