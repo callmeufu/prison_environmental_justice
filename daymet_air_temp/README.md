@@ -2,7 +2,7 @@
 
 1. **Loading and Cleaning Data:**
   - The raw prison boundaries data was read into a GeoDataFrame (prisonsRaw) and ensured that the FACILITYID column is treated as a string.
-  - The clean list of prisons was loaded into a DataFrame (prisonsClean), also ensuring the FACILITYID column is treated as a string.
+  - The [clean list of prisons](daymet_air_temp/Input) was loaded into a DataFrame (prisonsClean), also ensuring the FACILITYID column is treated as a string.
   - The raw data was filtered to include only those prisons whose FACILITYID was present in the clean list. The filtered data was then deep-copied to create prisonsFinal.
 2. **Geometric Transformation:**
   - The filtered dataset was reprojected to the EPSG:2163 coordinate reference system to ensure accurate spatial calculations for centroid determination.
