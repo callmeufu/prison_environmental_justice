@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/0e335ca5-4649-4051-9e9e-08cdb12e9837)
+
 # Prison environmental justice
 
 This is the working repository for an ongoing research project in part supported by NASA ROSES-21 A.49 Earth Science Applications: Equity and Environmental Justice funded grant (Award No 80NSSC22K1673) titled "EVDT Integrated Modeling Framework Applied to Measure Environmental Injustice and Socioeconomic Disparities in Prison Landscapes" and a grant from MIT’s IDSS Initiative on Combating Systemic Racism. This work was also supported by personnel and resources from the Reuters news agency and the Brown Institute for Media Innovation at Columbia University.
