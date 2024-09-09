@@ -8,7 +8,6 @@ The purpose of this project is to develop time-series datasets and analysis of s
 - `prison_datasets` Includes data in geographic boundaries of carceral facilities (prisons, jails, and immigrant detention center) and a prison specific dataset
 - `daymet_air_temp` Includes python code and output data using the [Daymet v4](https://daymet.ornl.gov/overview) air temperature model to compute statistics in prison landscapes
 - `pm25_air_pollution` Includes python code and output data using the [Washington University St. Louis](https://sites.wustl.edu/acag/datasets/surface-pm2-5/) particulate matter 2.5 air pollution concentrations to compute statistics in prison landscapes
-- `ac_datasets` Includes information on ac availability in a fraction of U.S. prisons obtained via the Freedom of Information Act
 - `nldas_heat_index` Includes python code and output data using NASA's North American Land Data Assimilation System (NLDAS) data on air temperature and humidity to compute heat index statistics in prison landscapes
 - `climate-projections` Includes python code and output data using the [NASA Earth Exchange (NEX) Downscaled Climate Projections (NEX-DCP30)](https://www.nccs.nasa.gov/services/data-collections/land-based-products/nex-dcp30)
 
