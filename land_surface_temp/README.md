@@ -7,4 +7,4 @@ This directory contains 'LST_Main', which is a JavaScript file to be used on Goo
 
 **Processing:** We applied additional processing steps in Google Earth Engine (GEE) to merge data from all five satellites into a single collection, mask clouds using the provided quality assurance bands, and compute annual summer means of LST for each prison polygon for the full study period. 
 
-We thank Mia Hines who led the code development for this portion of the work.
+We thank Mia Hines-Shanks who led the code development for this portion of the work.
