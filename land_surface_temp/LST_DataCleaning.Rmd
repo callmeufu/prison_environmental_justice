@@ -1,0 +1,118 @@
+---
+title: "LST_DataCleaning"
+author: "Mia Hines-Shanks"
+date: "2023-07-10"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library("tidyverse")
+library("readr")
+library(terra)
+library(Gmisc)
+```
+
+### ---- IMPORTING DATASETS
+```{r}
+# note: there is separate datasheets for Hawaii due to LST issues (1993-1998 image band doesn't exist 
+#       and too many empty values led to functionality breaks). these issues have been resolved prior to this. 
+
+dir = '/Users/ufuoma/Documents/Dissertation/Data/Heat/LST_1990_2023/'
+
+### MAX LST datasheets
+max_midwest <- read_csv(pathJoin(dir, "Max_LST_Midwest_1990_2023.csv"))
+max_northeast <- read_csv(pathJoin(dir, "Max_LST_Northeast_1990_2023.csv"))
+max_west <- read_csv(pathJoin(dir, "Max_LST_West_1990_2023.csv"))
+max_south <- read_csv(pathJoin(dir, "Max_LST_South_1990_2023.csv"))
+#max_hawaii <- read_csv(pathJoin(dir, "Max_LST_Hawaii_NA_2_1990_2022.csv"))
+
+### MEAN LST datasheets
+mean_midwest <- read_csv(pathJoin(dir, "Mean_LST_Midwest_1990_2023.csv"))
+mean_northeast <- read_csv(pathJoin(dir, "Mean_LST_Northeast_1990_2023.csv"))
+mean_west <- read_csv(pathJoin(dir, "Mean_LST_West_1990_2023.csv"))
+mean_south <- read_csv(pathJoin(dir, "Mean_LST_South_1990_2023.csv"))
+#mean_hawaii <- read_csv("Data/Mean_LST_Hawaii_NA_2_1990_2022.csv")
+
+### prison facility information and characteristics
+# prisons_midwest <- read_csv("Data/Current_Prison_Facilities_Midwest.csv")
+# prisons_northeast <- read_csv("Data/Current_Prison_Facilities_Northeast.csv")
+# prisons_west <- read_csv("Data/Current_Prison_Facilities_West.csv")
+# prisons_south <- read_csv("Data/Current_Prison_Facilities_South.csv")
+# prisons_hawaii <- read_csv("Data/Current_Prison_Facilities_Hawaii.csv")
+```
+
+### ---- CLEANING 
+```{r}
+# -- functions to assist in cleaning multiple datasets
+count_missing_stat <- function(datasheet) {
+  # changing NAs that are strings to null type
+  datasheet[datasheet == "NA"] <- NA
+  datasheet$Missing_LST <- rowSums(is.na(datasheet))
+  return(datasheet)
+}
+
+# reformating statistic datasheets
+stat_format_data <- function(datasheet) {
+  datasheet <- datasheet[,-1]
+  datasheet <- spread(datasheet, Year, 3)
+  datasheet <- datasheet %>%
+    group_by(FACILITYID, STATE) %>%
+    summarise(across(2:35, sum))
+  
+  return(datasheet)
+}
+
+# -- LST datasheets
+# cleaned datasheets and their new variables
+clean_max_midwest <- count_missing_stat(stat_format_data(max_midwest))
+clean_max_northeast <- count_missing_stat(stat_format_data(max_northeast))
+clean_max_west <- count_missing_stat(stat_format_data(max_west))
+clean_max_south <- count_missing_stat(stat_format_data(max_south))
+#clean_max_hawaii <- count_missing_stat(stat_format_data(max_hawaii))
+
+clean_mean_midwest <- count_missing_stat(stat_format_data(mean_midwest))
+clean_mean_northeast <- count_missing_stat(stat_format_data(mean_northeast))
+clean_mean_west <- count_missing_stat(stat_format_data(mean_west))
+clean_mean_south <- count_missing_stat(stat_format_data(mean_south))
+#clean_mean_hawaii <- count_missing_stat(stat_format_data(mean_hawaii))
+
+# -- prison information datasets. 
+# fixing small type conversion errors. all character to numeric conversions. 
+
+prisons_northeast$COUNTYFIPS <- as.numeric(as.character(prisons_northeast$COUNTYFIPS))
+prisons_west$COUNTYFIPS <- as.numeric(as.character(prisons_west$COUNTYFIPS))
+prisons_south$COUNTYFIPS <- as.numeric(as.character(prisons_south$COUNTYFIPS))
+
+prisons_northeast$ZIP <- as.numeric(as.character(prisons_northeast$ZIP))
+prisons_west$ZIP <- as.numeric(as.character(prisons_west$ZIP))
+
+prisons_midwest$ZIP4 <- as.numeric(as.character(prisons_midwest$ZIP4))
+prisons_west$ZIP4 <- as.numeric(as.character(prisons_west$ZIP4))
+prisons_south$ZIP4 <- as.numeric(as.character(prisons_south$ZIP4))
+prisons_northeast$ZIP4 <- as.numeric(as.character(prisons_northeast$ZIP4))
+```
+
+### ---- MERGING
+```{r}
+# MERGE MAX
+us_max_lst <- bind_rows(clean_max_midwest, clean_max_northeast, clean_max_west, clean_max_south) #clean_max_hawaii
+
+# MERGE MEAN
+us_mean_lst <- bind_rows(clean_mean_midwest, clean_mean_northeast, clean_mean_west, clean_mean_south) #clean_mean_hawaii
+
+# MERGE Prison Characteristics & Information
+#us_prisons <- bind_rows(prisons_midwest, prisons_northeast, prisons_west, prisons_south, prisons_hawaii)
+```
+
+### --- EXPORTING DATA 
+```{r}
+# MAX
+write.csv(us_max_lst, pathJoin(dir, "US_Max_LST_1990_2023.csv"))
+
+# MEAN 
+write.csv(us_mean_lst, pathJoin(dir, "US_Mean_LST_1990_2023.csv"))
+
+# Prisons
+#write.csv(us_prisons, file = "United_States_Prisons_Info.csv")
+```
