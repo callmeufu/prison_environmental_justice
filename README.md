@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0e335ca5-4649-4051-9e9e-08cdb12e9837)
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.13313914.svg)](https://zenodo.org/doi/10.5281/zenodo.13313914)
 
 # Prison environmental justice
 
