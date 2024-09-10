@@ -1,3 +1,5 @@
+// Code was originally created my Mia Hines-Shanks
+
 // --------------- CODE WAS USED IN GOOGLE EARTH ENGINE -------------------
 //  ---------- IMPORT DATA 
 var all_dhs_shp = ee.FeatureCollection("users/ufuoma/Prison_Boundaries-shp"), //this is the raw HIFLD dataset
