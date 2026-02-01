@@ -1,4 +1,4 @@
-# Datasets used to create figures and analyses that appear in ES&T manuscript "TITLE", <doi link>
+# Datasets used to create figures and analyses that appear in ES&T manuscript "Spatial Pattern of Outdoor PM2.5 Air Pollution in U.S. Prison Landscapes from 1998 2022", 10.1021/acs.est.5c09650
 
 1. 'fig_1_3_4_data' used to make Figure 1, 3 and 4
 2. 'fig_2_data' used to make Figure 2
